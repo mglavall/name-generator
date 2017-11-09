@@ -14,7 +14,7 @@ body{
 	display:block;
 }
 #countdown{
-	width:100%
+	width:100%;
 	position: absolute;
 	font-size: 150px;
 	text-align: center;
