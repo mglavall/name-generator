@@ -1,24 +1,8 @@
 
 
-body{
+html, body{
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
-	color:white;
+	height:100%;
 }
-#titulo{
-	position: absolute;
-	top: 100px;
-	width: 100%;
-	text-align: center;
-	z-index: 100;
-	display:block;
-}
-#countdown{
-	width:100%;
-	position: absolute;
-	font-size: 150px;
-	text-align: center;
-	z-index: 100;
-	display:block;
-	top:300px;
-}
+
