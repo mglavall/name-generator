@@ -18,13 +18,11 @@ var names = [
 "Marsupiskas"
 ]
 var name = "Marçal";
-var index = 0;
 function getRandomName(){
   var aux = false;
   index++;
   while(!aux){
-    //var newName = names[Math.floor(Math.random()*names.length)];
-    var newName = names[index];
+    var newName = names[Math.floor(Math.random()*names.length)];
     if(newName != name){
       aux = true;
     }
