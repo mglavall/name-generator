@@ -15,6 +15,7 @@ var names = [
 "DJ Marsa",
 "Bruno Marsa",
 "El bueno de Marsi",
+"Marsupiskas"
 ]
 var name = "Marçal";
 function getRandomName(){
