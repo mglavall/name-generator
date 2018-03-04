@@ -20,7 +20,7 @@ var names = [
 var name = "Marçal";
 function getRandomName(){
   var aux = false;
-  index++;
+
   while(!aux){
     var newName = names[Math.floor(Math.random()*names.length)];
     if(newName != name){
