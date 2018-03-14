@@ -15,7 +15,8 @@ var names = [
 "Marcelo",
 "Marcelino",
 "El bueno de Marsi",
-"Marsupiskas"
+"Marsupiskas",
+"Marsupuestísimo que sí"
 ]
 var name = "Marçal";
 function getRandomName(){
