@@ -28,6 +28,6 @@ function getRandomName(){
       aux = true;
     }
   }
- $("#name").text(newName);
+ document.getElementById("name").innerHTML = newName;
  name = newName;
 }
